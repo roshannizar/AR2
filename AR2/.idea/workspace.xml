@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="613eabc0-1f8f-4cb4-9ca1-0144804133d8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AR2-Signin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Signin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="150" column="29" lean-forward="false" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+              <folding>
+                <marker date="1531227408616" expanded="true" signature="4350:4422" ph="SELECT * FRO... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-SalesReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-SalesReport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Stock.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Stock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2499">
+              <caret line="147" column="54" lean-forward="false" selection-start-line="147" selection-start-column="54" selection-end-line="147" selection-end-column="54" />
+              <folding>
+                <marker date="1531227518371" expanded="true" signature="4517:4669" ph="UPDATE stock... " />
+                <marker date="1531227518371" expanded="true" signature="5025:5067" ph="DELETE FROM " />
+                <marker date="1531227518371" expanded="true" signature="5629:5728" ph="INSERT INTO stock... " />
+                <marker date="1531227518371" expanded="true" signature="7337:7359" ph="SELECT * FRO... supplier" />
+                <marker date="1531227518371" expanded="true" signature="8262:8312" ph="SELECT * FRO... stock" />
+                <marker date="1531227518371" expanded="true" signature="9226:9248" ph="SELECT * FRO... supplier" />
+                <marker date="1531227518371" expanded="true" signature="10402:10421" ph="SELECT * FRO... stock" />
+                <marker date="1531227518371" expanded="true" signature="11908:11927" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5746">
+              <caret line="338" column="19" lean-forward="false" selection-start-line="338" selection-start-column="19" selection-end-line="338" selection-end-column="19" />
+              <folding>
+                <marker date="1531227872330" expanded="true" signature="3520:3539" ph="SELECT * FRO... sales" />
+                <marker date="1531227872330" expanded="true" signature="3559:3578" ph="SELECT * FRO... stock" />
+                <marker date="1531227872330" expanded="true" signature="3601:3623" ph="SELECT * FRO... customer" />
+                <marker date="1531227872330" expanded="true" signature="3646:3668" ph="SELECT * FRO... supplier" />
+                <marker date="1531227872330" expanded="true" signature="5333:5378" ph="SELECT * FRO... user" />
+                <marker date="1531227872330" expanded="true" signature="7045:7201" ph="UPDATE user " />
+                <marker date="1531227872330" expanded="true" signature="8613:8627" ph="..." />
+                <marker date="1531227872330" expanded="true" signature="8786:8805" ph="SELECT * FRO... stock" />
+                <marker date="1531227872330" expanded="true" signature="9412:9456" ph="SELECT * FRO... customer" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Supplier.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Supplier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+              <folding>
+                <marker date="1531227518433" expanded="true" signature="4633:4787" ph="UPDATE suppl... " />
+                <marker date="1531227518433" expanded="true" signature="5142:5188" ph="DELETE FROM " />
+                <marker date="1531227518433" expanded="true" signature="5752:5847" ph="INSERT INTO supplier... " />
+                <marker date="1531227518433" expanded="true" signature="8057:8113" ph="SELECT * FRO... supplier" />
+                <marker date="1531227518433" expanded="true" signature="9785:9807" ph="SELECT * FRO... supplier" />
+                <marker date="1531227518433" expanded="true" signature="11447:11469" ph="SELECT * FRO... supplier" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-userDestroy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-userDestroy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR-Bill.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AR2/AR-Bill.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="167" column="31" lean-forward="false" selection-start-line="167" selection-start-column="31" selection-end-line="167" selection-end-column="31" />
+              <folding>
+                <marker date="1531233303900" expanded="true" signature="1325:1420" ph="SELECT * FRO... stock" />
+                <marker date="1531233303900" expanded="true" signature="2727:2822" ph="SELECT * FRO... stock" />
+                <marker date="1531233303900" expanded="true" signature="3553:3761" ph="..." />
+                <marker date="1531233303900" expanded="true" signature="3786:3994" ph="..." />
+                <marker date="1531233303900" expanded="true" signature="4214:4309" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Signup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Signup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2363">
+              <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+              <folding>
+                <marker date="1531226656886" expanded="true" signature="4790:4898" ph="INSERT INTO user... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Customer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="150" column="54" lean-forward="false" selection-start-line="150" selection-start-column="54" selection-end-line="150" selection-end-column="54" />
+              <folding>
+                <marker date="1531227518308" expanded="true" signature="4243:4290" ph="SELECT * FRO... customer" />
+                <marker date="1531227518308" expanded="true" signature="5663:5904" ph="UPDATE custo... " />
+                <marker date="1531227518308" expanded="true" signature="6259:6306" ph="DELETE FROM " />
+                <marker date="1531227518308" expanded="true" signature="6873:7004" ph="INSERT INTO customer... " />
+                <marker date="1531227518308" expanded="true" signature="9308:9364" ph="SELECT * FRO... customer" />
+                <marker date="1531227518308" expanded="true" signature="11479:11501" ph="SELECT * FRO... customer" />
+                <marker date="1531227518308" expanded="true" signature="13576:13598" ph="SELECT * FRO... customer" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AR2-Sales.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AR2/AR2-Sales.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="150" column="54" lean-forward="false" selection-start-line="150" selection-start-column="54" selection-end-line="150" selection-end-column="54" />
+              <folding>
+                <marker date="1531227518543" expanded="true" signature="4665:4819" ph="UPDATE sales... " />
+                <marker date="1531227518543" expanded="true" signature="5173:5215" ph="DELETE FROM " />
+                <marker date="1531227518543" expanded="true" signature="5855:5958" ph="INSERT INTO sales... " />
+                <marker date="1531227518543" expanded="true" signature="5985:6098" ph="INSERT INTO bill... " />
+                <marker date="1531227518543" expanded="true" signature="7936:7955" ph="SELECT * FRO... stock" />
+                <marker date="1531227518543" expanded="true" signature="8527:8549" ph="SELECT * FRO... customer" />
+                <marker date="1531227518543" expanded="true" signature="9659:9700" ph="SELECT * FRO... sales" />
+                <marker date="1531227518543" expanded="true" signature="11370:11389" ph="SELECT * FRO... sales" />
+                <marker date="1531227518543" expanded="true" signature="13061:13077" ph="DELETE FROM " />
+                <marker date="1531227518543" expanded="true" signature="13456:13475" ph="SELECT * FRO... sales" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../The Caped Carrot/CCAdminPage.php" />
+        <option value="$PROJECT_DIR$/CC-SplashStart.html" />
+        <option value="$PROJECT_DIR$/AR2 - Main.html" />
+        <option value="$PROJECT_DIR$/AR2-serverConnection.php" />
+        <option value="$PROJECT_DIR$/AR2-Signin.html" />
+        <option value="$PROJECT_DIR$/AR2-SplashStart.html" />
+        <option value="$PROJECT_DIR$/AR2-Signin.php" />
+        <option value="$PROJECT_DIR$/AR2-userDestroy.php" />
+        <option value="$PROJECT_DIR$/testing.html" />
+        <option value="$PROJECT_DIR$/AR2-Stock.php" />
+        <option value="$PROJECT_DIR$/AR2-Supplier.php" />
+        <option value="$PROJECT_DIR$/AR2-Customer.php" />
+        <option value="$PROJECT_DIR$/AR2-Sales.php" />
+        <option value="$PROJECT_DIR$/AR-Bill.php" />
+        <option value="$PROJECT_DIR$/AR2-Main.php" />
+        <option value="$PROJECT_DIR$/AR2-Signup.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-SalesReport.php" />
+        <option value="$PROJECT_DIR$/AR2/testing.html" />
+        <option value="$PROJECT_DIR$/AR2/AR2-LoginSplash.html" />
+        <option value="$PROJECT_DIR$/AR2-LoginSplash.html" />
+        <option value="$PROJECT_DIR$/AR2/AR2-serverConnection.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Signup.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Signin.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Customer.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Sales.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Stock.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Supplier.php" />
+        <option value="$PROJECT_DIR$/AR2/AR2-Main.php" />
+        <option value="$PROJECT_DIR$/AR2/AR-Bill.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="284" />
+    <option name="y" value="27" />
+    <option name="width" value="1191" />
+    <option name="height" value="668" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613eabc0-1f8f-4cb4-9ca1-0144804133d8" name="Default" comment="" />
+      <created>1511261843353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511261843353</updated>
+      <workItem from="1511261844698" duration="2254000" />
+      <workItem from="1511268135617" duration="1445000" />
+      <workItem from="1511279717413" duration="3250000" />
+      <workItem from="1511512439797" duration="7866000" />
+      <workItem from="1511542879828" duration="2143000" />
+      <workItem from="1511610694268" duration="1858000" />
+      <workItem from="1511802682175" duration="2090000" />
+      <workItem from="1511861947030" duration="190000" />
+      <workItem from="1511862215453" duration="17000" />
+      <workItem from="1511878030894" duration="633000" />
+      <workItem from="1511882426484" duration="2833000" />
+      <workItem from="1511948209568" duration="3710000" />
+      <workItem from="1512027613049" duration="1080000" />
+      <workItem from="1512061159348" duration="1214000" />
+      <workItem from="1512116232341" duration="20852000" />
+      <workItem from="1512305472663" duration="22000" />
+      <workItem from="1512489110590" duration="2000000" />
+      <workItem from="1512732729995" duration="2067000" />
+      <workItem from="1513264524781" duration="603000" />
+      <workItem from="1513609011751" duration="29000" />
+      <workItem from="1515915595006" duration="14547000" />
+      <workItem from="1516000221368" duration="1633000" />
+      <workItem from="1516001871561" duration="505000" />
+      <workItem from="1516002392091" duration="7936000" />
+      <workItem from="1516013111502" duration="11000" />
+      <workItem from="1516013211750" duration="6918000" />
+      <workItem from="1516113405882" duration="244000" />
+      <workItem from="1516113721778" duration="11000" />
+      <workItem from="1516876022161" duration="7000" />
+      <workItem from="1516876172188" duration="102000" />
+      <workItem from="1518795771101" duration="144000" />
+      <workItem from="1519028474915" duration="979000" />
+      <workItem from="1531222595229" duration="7378000" />
+      <workItem from="1531233259377" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-SplashStart.html" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CCAdminPage.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-LoginSplash.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.html" />
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CCAdminPage.php" />
+    <entry file="file://$PROJECT_DIR$/CC-SplashStart.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.html" />
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.html" />
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.html" />
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/../NewAirtel/NA-SignIn.html" />
+    <entry file="file://$PROJECT_DIR$/../NewAirtel/NA-Dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CCAdminSupplier.php" />
+    <entry file="file://$PROJECT_DIR$/CC-SplashStart.html" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CCAdminPage.php" />
+    <entry file="file://$PROJECT_DIR$/AR2 - Main.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-serverConnection.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-SplashStart.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signin.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-userDestroy.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-Supplier.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-Customer.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-Stock.php" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CCAdminStock.php" />
+    <entry file="file://$PROJECT_DIR$/testing.html" />
+    <entry file="file://$PROJECT_DIR$/AR2-Sales.php" />
+    <entry file="file://$PROJECT_DIR$/AR-Bill.php" />
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CC Online Package.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-Main.php" />
+    <entry file="file://$PROJECT_DIR$/AR2-Signup.php" />
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-SplashStart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/testing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../The Caped Carrot/CC Online Beverages.php" />
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-LoginSplash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2-LoginSplash.html" />
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-serverConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1531226656886" expanded="true" signature="4790:4898" ph="INSERT INTO user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Signin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="29" lean-forward="false" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+          <folding>
+            <marker date="1531227408616" expanded="true" signature="4350:4422" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="54" lean-forward="false" selection-start-line="150" selection-start-column="54" selection-end-line="150" selection-end-column="54" />
+          <folding>
+            <marker date="1531227518308" expanded="true" signature="4243:4290" ph="SELECT * FRO... customer" />
+            <marker date="1531227518308" expanded="true" signature="5663:5904" ph="UPDATE custo... " />
+            <marker date="1531227518308" expanded="true" signature="6259:6306" ph="DELETE FROM " />
+            <marker date="1531227518308" expanded="true" signature="6873:7004" ph="INSERT INTO customer... " />
+            <marker date="1531227518308" expanded="true" signature="9308:9364" ph="SELECT * FRO... customer" />
+            <marker date="1531227518308" expanded="true" signature="11479:11501" ph="SELECT * FRO... customer" />
+            <marker date="1531227518308" expanded="true" signature="13576:13598" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Sales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="54" lean-forward="false" selection-start-line="150" selection-start-column="54" selection-end-line="150" selection-end-column="54" />
+          <folding>
+            <marker date="1531227518543" expanded="true" signature="4665:4819" ph="UPDATE sales... " />
+            <marker date="1531227518543" expanded="true" signature="5173:5215" ph="DELETE FROM " />
+            <marker date="1531227518543" expanded="true" signature="5855:5958" ph="INSERT INTO sales... " />
+            <marker date="1531227518543" expanded="true" signature="5985:6098" ph="INSERT INTO bill... " />
+            <marker date="1531227518543" expanded="true" signature="7936:7955" ph="SELECT * FRO... stock" />
+            <marker date="1531227518543" expanded="true" signature="8527:8549" ph="SELECT * FRO... customer" />
+            <marker date="1531227518543" expanded="true" signature="9659:9700" ph="SELECT * FRO... sales" />
+            <marker date="1531227518543" expanded="true" signature="11370:11389" ph="SELECT * FRO... sales" />
+            <marker date="1531227518543" expanded="true" signature="13061:13077" ph="DELETE FROM " />
+            <marker date="1531227518543" expanded="true" signature="13456:13475" ph="SELECT * FRO... sales" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-SalesReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Stock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="147" column="54" lean-forward="false" selection-start-line="147" selection-start-column="54" selection-end-line="147" selection-end-column="54" />
+          <folding>
+            <marker date="1531227518371" expanded="true" signature="4517:4669" ph="UPDATE stock... " />
+            <marker date="1531227518371" expanded="true" signature="5025:5067" ph="DELETE FROM " />
+            <marker date="1531227518371" expanded="true" signature="5629:5728" ph="INSERT INTO stock... " />
+            <marker date="1531227518371" expanded="true" signature="7337:7359" ph="SELECT * FRO... supplier" />
+            <marker date="1531227518371" expanded="true" signature="8262:8312" ph="SELECT * FRO... stock" />
+            <marker date="1531227518371" expanded="true" signature="9226:9248" ph="SELECT * FRO... supplier" />
+            <marker date="1531227518371" expanded="true" signature="10402:10421" ph="SELECT * FRO... stock" />
+            <marker date="1531227518371" expanded="true" signature="11908:11927" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Supplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding>
+            <marker date="1531227518433" expanded="true" signature="4633:4787" ph="UPDATE suppl... " />
+            <marker date="1531227518433" expanded="true" signature="5142:5188" ph="DELETE FROM " />
+            <marker date="1531227518433" expanded="true" signature="5752:5847" ph="INSERT INTO supplier... " />
+            <marker date="1531227518433" expanded="true" signature="8057:8113" ph="SELECT * FRO... supplier" />
+            <marker date="1531227518433" expanded="true" signature="9785:9807" ph="SELECT * FRO... supplier" />
+            <marker date="1531227518433" expanded="true" signature="11447:11469" ph="SELECT * FRO... supplier" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-userDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR2-Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5746">
+          <caret line="338" column="19" lean-forward="false" selection-start-line="338" selection-start-column="19" selection-end-line="338" selection-end-column="19" />
+          <folding>
+            <marker date="1531227872330" expanded="true" signature="3520:3539" ph="SELECT * FRO... sales" />
+            <marker date="1531227872330" expanded="true" signature="3559:3578" ph="SELECT * FRO... stock" />
+            <marker date="1531227872330" expanded="true" signature="3601:3623" ph="SELECT * FRO... customer" />
+            <marker date="1531227872330" expanded="true" signature="3646:3668" ph="SELECT * FRO... supplier" />
+            <marker date="1531227872330" expanded="true" signature="5333:5378" ph="SELECT * FRO... user" />
+            <marker date="1531227872330" expanded="true" signature="7045:7201" ph="UPDATE user " />
+            <marker date="1531227872330" expanded="true" signature="8613:8627" ph="..." />
+            <marker date="1531227872330" expanded="true" signature="8786:8805" ph="SELECT * FRO... stock" />
+            <marker date="1531227872330" expanded="true" signature="9412:9456" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR2/AR-Bill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="167" column="31" lean-forward="false" selection-start-line="167" selection-start-column="31" selection-end-line="167" selection-end-column="31" />
+          <folding>
+            <marker date="1531233303900" expanded="true" signature="1325:1420" ph="SELECT * FRO... stock" />
+            <marker date="1531233303900" expanded="true" signature="2727:2822" ph="SELECT * FRO... stock" />
+            <marker date="1531233303900" expanded="true" signature="3553:3761" ph="..." />
+            <marker date="1531233303900" expanded="true" signature="3786:3994" ph="..." />
+            <marker date="1531233303900" expanded="true" signature="4214:4309" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
